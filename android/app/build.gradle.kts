@@ -7,7 +7,7 @@ plugins {
 android {
     namespace = "com.bhavy.smartspace"
 
-    compileSdk = 35
+    compileSdk = 36
 
     ndkVersion = flutter.ndkVersion
 
@@ -24,7 +24,7 @@ android {
         applicationId = "com.bhavy.smartspace"
 
         minSdk = 24
-        targetSdk = 35
+        targetSdk = 36
 
         versionCode = flutter.versionCode
         versionName = flutter.versionName

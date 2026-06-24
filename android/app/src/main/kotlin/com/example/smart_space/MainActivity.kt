@@ -1,4 +1,4 @@
-package com.example.smart_space
+package com.bhavy.smartspace
 
 import io.flutter.embedding.android.FlutterActivity
 
